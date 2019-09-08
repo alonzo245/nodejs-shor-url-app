@@ -1,0 +1,4 @@
+{
+    "mongoURI": "XXXXXXXXXXXXXXXXXXXX",
+    "baseUrl": "http://localhost:5000"
+}
